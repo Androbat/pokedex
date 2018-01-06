@@ -9,4 +9,7 @@ completely powered with Functiona Programmig.
 
 klk de lo mio
 
+making some changes
+
+
 
